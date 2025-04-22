@@ -1,6 +1,4 @@
 ![logo](https://github.com/ujjwalksingh9668/ujjwalksingh9668/blob/main/UJJWAL.png)
-<h1 align="center">Hi 👋, I'm UJJWAL KUMAR SINGH</h1>
-<h3 align="center">A passionate Python developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ujjwalksingh9668&label=Profile%20views&color=0e75b6&style=flat" alt="ujjwalksingh9668" /> </p>
 
