@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm UJJWAL KUMAR SINGH</h1>
 <h3 align="center">A passionate Python developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonscout.com%2Fillustrations%2Fcoder&psig=AOvVaw29km73Bml5HfyVT5EllxLJ&ust=1745402228738000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLiW-LKw64wDFQAAAAAdAAAAABAE")
-">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ujjwalksingh9668&label=Profile%20views&color=0e75b6&style=flat" alt="ujjwalksingh9668" /> </p>
 
